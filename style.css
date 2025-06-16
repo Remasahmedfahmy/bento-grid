@@ -1,0 +1,334 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+body{
+    font-family: "Inter", sans-serif;
+    background-color: #e6e6e6;
+}
+.contaner{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.firstbox{
+    width: 20%;
+    background-color: #faeee2;
+    padding: 10px 30px;
+    border-radius: 10px;
+    height: 42vh;
+    padding-top: 34px;
+    font-style: oblique;
+    font-family: none;
+    line-height: 30px;
+}
+.firstbox h1 span{
+    color: #7554c7;
+    font-family: "Inter", sans-serif;
+    line-height: 50px;
+}
+.firstbox button{
+    padding: 10px;
+    border: none;
+    background-color: #fecb6a;
+    border-radius: 33px;
+    color: #8559a8;
+    font-weight: 800;
+    margin-top: 19px;
+}
+.secondbox{
+    width: 20%;
+    background-color: #ffcc69;
+    padding: 10px 30px;
+    border-radius: 10px;
+    height: 47vh;
+    padding-top: 34px;
+    font-style: oblique;
+    font-family: "Inter", sans-serif;
+    line-height: 30px;
+    margin-top: 16px;
+}
+.smallbox{
+    background: white;
+    width: 98%;
+    height: 25vh;
+    margin-top: 17px;
+    border-radius: 11px;
+}
+.div1{
+    margin-top: 1%;
+    font-style: normal;
+    font-size: 11px;
+    width: 8%;
+    line-height: 13px;
+    background: #ffeded;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 10px;
+    position: absolute;
+}
+.div2{
+    margin-top: 7%;
+    font-style: normal;
+    font-size: 11px;
+    width: 8%;
+    line-height: 13px;
+    background: #fcebd1;
+    border-radius: 10px;
+    margin-left: 56px;
+    padding: 10px;
+    position: absolute;
+}
+.circ{
+    width: 6%;
+    height: 88px;
+    background: #fffeff;
+    border-radius: 72%;
+    margin-left: 9%;
+    margin-top: 3%;
+    position: absolute;
+}
+.inscirc{
+    width: 62px;
+    height: 62px;
+    background: #fecc6c;
+    border-radius: 72%;
+    margin-left: 10%;
+    margin-top: 57px;
+    position: absolute;
+}
+.thirdbox{
+    width: 50%;
+    background-color: #7651dc;
+    padding: 10px 30px;
+    border-radius: 10px;
+    height: 28vh;
+    padding-top: 34px;
+    font-style: oblique;
+    font-family: none;
+    line-height: 30px;
+    margin-left: 25%;
+    margin-top: -52%;
+    text-align: center;
+    color: #ffff;
+}
+.thirdbox h1 span{
+    color: #ffcd67;
+    font-size: 40px;
+}
+.fourthbox{
+    width: 20%;
+    background-color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 10px;
+    height: 28vh;
+    padding-top: 34px;
+    font-style: oblique;
+    font-family: none;
+    line-height: 30px;
+    margin-left: 25%;
+    margin-top: 1%;
+}
+.bo11{
+    width: 85%;
+    height: 32%;
+    background: #ffffff;
+    font-size: 10px;
+    line-height: 18px;
+    margin-top: -19px;
+    padding: 10px;
+    border-radius: 23px;
+    box-shadow: 2px 2px 9px 2px #e6e6e6;
+    margin-left: -4px;
+}
+.fa{
+        width: 37px;
+    height: 5%;
+    background: #fcc96a;
+    border-radius: 22px;
+    position: absolute;
+}
+.fifthbox{
+    width: 20%;
+    background-color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 10px;
+    height: 28vh;
+    padding-top: 34px;
+    font-style: oblique;
+    font-family: none;
+    line-height: 30px;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+.sixthbox{
+    width: 25%;
+    background-color: #ffcc69;
+    padding: 10px 30px;
+    border-radius: 10px;
+    height: 28vh;
+    padding-top: 34px;
+    font-style: oblique;
+    font-family: none;
+    line-height: 30px;
+    margin-left: 50%;
+    margin-top: -34%;
+}
+.boo{
+        background: #fff;
+    margin-top: 12px;
+    border-radius: 20px 20px 0px 0px;
+    height: 90px;
+}
+.boi{
+    font-size: 11px;
+    height: 36px;
+    background: #7651dc;
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+}
+.seventhbox{
+    width: 50%;
+    background-color: #7651dc;
+    padding: 10px 30px;
+    border-radius: 10px;
+    height: 28vh;
+    padding-top: 34px;
+    font-style: oblique;
+    font-family: none;
+    margin-left: 50%;
+    margin-top: 2%;
+    color: #ffff;
+}
+.oneb{
+    background: #fff;
+    margin-top: -117px;
+    position: absolute;
+    height: 159px;
+    width: 224px;
+    border-radius: 8%;
+    padding: 10px;
+}
+.oneb span{
+    color: #6ba683;
+    background: #d6ffe8;
+    font-size: 10px;
+    margin-left: 70%;
+    position: absolute;
+    margin-top: -36px;
+}
+.a{
+        width: 16px;
+    height: 32px;
+    background: #7651dc;
+    border-radius: 21px;
+    margin-top: 35px;
+    margin-left: 14px;
+}
+.b{
+    width: 16px;
+    height: 40px;
+    background: #7651dc;
+    border-radius: 21px;
+    margin-top: -40px;
+    margin-left: 43px;
+}
+.c{
+        width: 16px;
+    height: 50px;
+    background: #7651dc;
+    border-radius: 21px;
+    margin-top: -50px;
+    margin-left: 73px;
+}
+.d{
+        width: 16px;
+    height: 60px;
+    background: #7651dc;
+    border-radius: 21px;
+    margin-top: -60px;
+    margin-left: 102px;
+}
+.e{
+    width: 16px;
+    height: 70px;
+    background: #7651dc;
+    border-radius: 21px;
+    margin-top: -70px;
+    margin-left: 134px;
+}
+.f{
+        width: 16px;
+    height: 60px;
+    background: #7651dc;
+    border-radius: 21px;
+    margin-top: -60px;
+    margin-left: 165px;
+}
+.twob{
+        background: #ffffff;
+    width: 177px;
+    height: 58px;
+    position: absolute;
+    margin-left: 8%;
+    border-radius: 20px;
+    color: #000;
+}
+.cir{
+    width: 10px;
+    height: 10px;
+    background: #fbce71;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.twob span{
+    color: #6ba683;
+    background: #d6ffe8;
+    font-size: 10px;
+    margin-left: 70%;
+    position: absolute;
+    margin-top: -36px;
+}
+.eighthbox{
+    width: 22%;
+    background-color: #dcd1fc;
+    padding: 10px 30px;
+    border-radius: 10px;
+    height: 59vh;
+    padding-top: 34px;
+    font-style: oblique;
+    font-family: none;
+    line-height: 30px;
+    margin-left: 78%;
+    margin-top: -52%;
+}
+.boz{
+    background: #fff;
+    border-radius: 20px;
+    padding: 20px;
+    height: 75%;
+}
+.boz span{
+    color: #00652b;
+    background: #d6ffe8;
+    font-size: 10px;
+    margin-left: 2%;
+    position: absolute;
+    border-radius: 2px;
+    height: 26px;
+    margin-top: -1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 13px;
+    font-weight: bolder;
+}
+.vb{
+    margin-top: 53%;
+    margin-left: -14px;
+}
